@@ -14,7 +14,7 @@ setup(
     description="Pacote de processamento de Imagens utilizando Skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/thiagolucenasantos/Python-DIO/tree/main/Criacao_Pacote_Processamento_Imanges/meu_pacote_processamento_imagem",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
