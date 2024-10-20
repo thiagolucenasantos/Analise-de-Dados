@@ -44,7 +44,7 @@ Este projeto envolve a análise de dados de colaboradores e departamentos de uma
 3. Conecte-se ao banco de dados no MySQL Workbench para visualizar e manipular os dados.
 4. Abra o Power BI e conecte-se ao banco de dados para analisar e visualizar os dados transformados.
 
-## Contribuições
+<!-- ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests.
 
@@ -56,4 +56,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para mais informações, entre em contato:
 - Seu Nome: [seu_email@example.com](mailto:seu_email@example.com)
+
+-->
 
